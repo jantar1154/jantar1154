@@ -1,7 +1,5 @@
 # Welcome to my GitHub profile!
 
-<img alt="profile banner image" src="banner.png">
-
 ## About me
 My name is David Bednárek, I am from Czech Republic and I am currently a 19 year old student at VŠB-TUO in Ostrava where I study computer science. At the end of my study I expect to be an advanced programmer languages C and C++.
 
