@@ -9,8 +9,9 @@ I often work on projects alone but I fancy working with other people in a team.
 | Beginner    | Intermediate   | Advanced   |
 |-------------|----------------|------------|
 | C           | JavaScript     | Java       |
-| Haskell     | PHP            | Rust       |
+| Haskell     | PHP            |            |
 |             | Python         |            |
+|             | Rust           |            |
 
 ### Other skills
 - SQL databases
