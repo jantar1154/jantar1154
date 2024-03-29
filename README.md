@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
 ## About me
-My name is David Bednárek, I am from Czech Republic and I am currently a student at VŠB-TUO in Ostrava where I study computer science. At the end of my study I expect to be an advanced programmer in low level languages.
+My name is David Bednárek, I am from Czech Republic and I am currently a student at VŠB-TUO in Ostrava where I study computer science.
 
 After starting university I began to love low level programming and I can see myself doing it more often in the future.
 
