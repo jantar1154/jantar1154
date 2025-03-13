@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
 ## About me
-Hello! My name is David Bednárek, a computer science student at VŠB-TUO in Ostrava.
+Hello! I am David Bednárek, a computer science student at VŠB-TUO in Ostrava.
 
 During my time at the university, I developed a fondness for low level programming and I want to do more of it in the future.
 
