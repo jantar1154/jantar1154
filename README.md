@@ -27,7 +27,7 @@ My projects are mostly a solo work, however I often brainstorm the ideas with my
 - <img alt="czech flag" width=28 src="czech_flag.jpg"/> Czech (native)
 - <img alt="flag of great britain" width=32 src="eng_flag.jpg"/> English (fluent)
 
-**I certified with B2 (FCE) Cambridge English certificate**
+**I'm certified with B2 (FCE) Cambridge English certificate**
 
 ## Goals
 - I wish to become very proficient in Rust programming language, which piqued my interest after attending a voluntary Rust class at my university. I can see myself creating really cool project in it.
